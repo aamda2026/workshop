@@ -32,6 +32,12 @@ The workshop will run with a single, half a day, session covering the following 
 - Alessandro Costantini
 - Daniele Cesini
 - Elisabetta Ronchieri
+
+
+## Previous editions
+- [AAMDA2025](https://aamda2026.github.io/workshop/) - [Computational Science and Its Applications – ICCSA 2025 Workshops](https://link.springer.com/book/10.1007/978-3-031-97576-9)
+- [AAMDA2022](https://2022.iccsa.org/workshops.html) - [Computational Science and Its Applications – ICCSA 2022 Workshops](https://link.springer.com/book/10.1007/978-3-031-10536-4)
+- [AAMDA2021](https://2021.iccsa.org/workshops.html) - [Computational Science and Its Applications – ICCSA 2021 Workshops](https://link.springer.com/book/10.1007/978-3-030-86653-2)
   
 ## Acknowledgments
 - [Italian Institute for Nuclear Physics - CNAF](https://www.cnaf.infn.it/) 
