@@ -37,7 +37,7 @@ The workshop will run with a single, half a day, session covering the following 
 - [Italian Institute for Nuclear Physics - CNAF](https://www.cnaf.infn.it/) 
 
 ## Contacts 
-Please contact us at aamda-workshop@lists.cnaf.infn.it
+Please contact us at [aamda-workshop@lists.cnaf.infn.it](mailto:aamda-workshop@lists.cnaf.infn.it)
 
 
 <!---[Contributions](./contributions.md)--->
