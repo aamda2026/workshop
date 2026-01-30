@@ -1,6 +1,6 @@
-# Workshop on Advancements in Applied Machine-learning and Data Analytics at [ICCSA](https://iccsa.org/) 2025 
+# Workshop on Advancements in Applied Machine-learning and Data Analytics at [ICCSA](https://iccsa.org/) 2026 
 
-Workshop organized in conjuction with ICCSA 2025, June 30- July 3, 2025 in collaboration with Galatasaray University, Istanbul, Türkiye.
+Workshop organized in conjuction with ICCSA 2026, June 30- July 3, 2026 in collaboration with Galatasaray University, Istanbul, Türkiye.
 
 ## Topics
 
