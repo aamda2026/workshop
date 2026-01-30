@@ -29,13 +29,15 @@ The workshop will run with a single, half a day, session covering the following 
 
 
 ## Organizers
-Alessandro Costantini
-Daniele Cesini
-Elisabetta Ronchieri
+- Alessandro Costantini
+- Daniele Cesini
+- Elisabetta Ronchieri
+  
+## Acknowledgments
+- [Italian Institute for Nuclear Physics - CNAF](https://www.cnaf.infn.it/) 
 
-
-## Communication and info 
-aamda-workshop@lists.cnaf.infn.it
+## Contacts 
+Please contact us at aamda-workshop@lists.cnaf.infn.it
 
 
 <!---[Contributions](./contributions.md)--->
