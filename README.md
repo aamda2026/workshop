@@ -28,10 +28,14 @@ The workshop will run with a single, half a day, session covering the following 
 - **Submission website:** [iccsa](https://ess.iccsa.org/cgi-bin/login.py)
 
 
+## Organizers
+Alessandro Costantini
+Daniele Cesini
+Elisabetta Ronchieri
+
+
 ## Communication and info 
 aamda-workshop@lists.cnaf.infn.it
-
-
 
 
 <!---[Contributions](./contributions.md)--->
