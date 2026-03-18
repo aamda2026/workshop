@@ -21,7 +21,7 @@ The workshop will run with a single, half a day, session covering the following 
 
 ## Key dates and information
 
-- **Paper submission deadline:** March 20, 2026
+- **Paper submission deadline:** ~~March 20, 2026~~  --> new April 5, 2026
 - **Decision to authors:** April 20, 2026
 - **Camera ready papers due:** May 8, 2026
 - **Registration and payment ends (hard deadline):** May 8, 2026
